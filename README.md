@@ -17,11 +17,9 @@ This is a simple daily planner web application that allows users to plan out the
 - Hour blocks are color-coded based on whether they are in the past, present, or future
 - Clear button allows users to clear all saved data from local storage
 
-## Installation
-
-To install the application, simply visit the live page or clone the repository and open the index.html file in your web browser.
-
 ## Usage
+
+Visit the live demo or download the source code and open index.html in your browser.
 
 1. When you open the application, the current date will be displayed at the top of the page.
 
@@ -39,7 +37,9 @@ To install the application, simply visit the live page or clone the repository a
 
 This project was created by Bennett Antonneau.
 
+Special thanks to the creators of jQuery and Day.js for their helpful libraries.
+
 ## License
 
-This project is licensed under the MIT license.```
+This project is licensed under the MIT license.
 
