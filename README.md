@@ -33,6 +33,10 @@ Visit the live demo or download the source code and open index.html in your brow
 
 6. If you need to clear all saved data, simply click the "Clear All" button at the top of the page.
 
+## Screenshot
+
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/109747300/233529464-5d8a341b-6e64-4266-89a6-aeaed52ab41e.png">
+
 ## Credits
 
 This project was created by Bennett Antonneau.
